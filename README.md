@@ -16,3 +16,7 @@
 5.Sebastian Cytawa - dodanie pustego wzorca na github</br>
 6.Paweł Czuchaj</br>
 7.Kamil Jonaszko - stworzenie grupy na facebook</br>
+
+
+
+KCH 7-03-2015  wykonalem baze danych oraz procedure sp_NowaRezerwacja </br>
